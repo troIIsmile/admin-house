@@ -1,0 +1,20 @@
+{
+  "name": "trollsmile-admin-house",
+  "version": "1.0.0",
+  "description": "the demo game for trollsmile admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rbxtsc && rojo build -o game.rbxlx"
+  },
+  "keywords": [],
+  "author": "Jack <hello@5079.ml> (https://5079.ml)",
+  "license": "ISC",
+  "devDependencies": {
+    "@rbxts/compiler-types": "^1.0.0-types.0",
+    "@rbxts/types": "^1.0.459"
+  },
+  "dependencies": {
+    "@rbxts/trollsmile": "^7.0.2"
+  }
+}
