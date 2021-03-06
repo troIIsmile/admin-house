@@ -12,9 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@rbxts/compiler-types": "^1.0.0-types.0",
+    "@rbxts/trollsmile": "^7.0.3",
     "@rbxts/types": "^1.0.459"
-  },
-  "dependencies": {
-    "@rbxts/trollsmile": "^7.0.2"
   }
 }

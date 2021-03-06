@@ -1,4 +1,6 @@
-import Trollsmile from '@rbxts/trollsmile'
+import type Bot from '@rbxts/trollsmile'
+
+const Trollsmile = require(5685499094) as typeof Bot
 
 const bot = new Trollsmile({
   prefix: ';',
